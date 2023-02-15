@@ -1,2 +1,2 @@
 # Cronometro
-Utilizando VHDL para criar um cronometro com uma FPGA.
+Utilizando Verilog para criar um cronometro com uma FPGA.
